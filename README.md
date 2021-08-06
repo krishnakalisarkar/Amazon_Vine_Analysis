@@ -2,7 +2,7 @@
 
 Analysis of Big Data using AWS and PostgresSQL
 
-                            ![books](https://cdn.rpglobalalliance.org/live/wp-content/uploads/2019/01/06131106/book-review.png)
+![books](https://cdn.rpglobalalliance.org/live/wp-content/uploads/2019/01/06131106/book-review.png)
 
 ## Overview of the analysis of the Vine program:
 
@@ -23,7 +23,7 @@ Initially, a vine dataframe was created including the columns that are necessary
 
 ### Number of Vine reviews and non-Vine reviews.
 
-![image1]()
+![image1](images/image_1.png)
 
 * The total number of vine reviewers with a vote percentage of above 50% is found to be 4743.
 
