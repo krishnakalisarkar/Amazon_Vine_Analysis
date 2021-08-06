@@ -37,7 +37,7 @@ Initially, a vine dataframe was created including the columns that are necessary
 
 * The total number of vine reviewers having a vote percentage of above 50% and who gave a 5 star review are 1604.
 
-![image4]()
+![image4](images/image_4.png)
 
 * The total number of non-vine reviewers having a vote percentage of above 50% and who gave a 5 star review are 167855.
 
