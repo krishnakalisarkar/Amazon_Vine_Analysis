@@ -27,7 +27,7 @@ Initially, a vine dataframe was created including the columns that are necessary
 
 * The total number of vine reviewers with a vote percentage of above 50% is found to be 4743.
 
-![image2]()
+![image2](images/image_2.png)
 
 * The total number of non-vine reviewers with a vote percentage of above 50% is found to be 328313.
 
