@@ -2,7 +2,7 @@
 
 Analysis of Big Data using AWS and PostgresSQL
 
-![books](https://cdn.rpglobalalliance.org/live/wp-content/uploads/2019/01/06131106/book-review.png)
+                            ![books](https://cdn.rpglobalalliance.org/live/wp-content/uploads/2019/01/06131106/book-review.png)
 
 ## Overview of the analysis of the Vine program:
 
@@ -17,7 +17,7 @@ Reviews are a good indicator of a book's quality, meaning, and significance. Boo
 
 ## Results: 
 
-![Vine_dataset]()
+![Vine_dataset](images/Vine_table_df.png)
 
 Initially, a vine dataframe was created including the columns that are necessary for the analysis to compare if there is any bias towards favorable reviews from the paid Vine members in the given data.
 
