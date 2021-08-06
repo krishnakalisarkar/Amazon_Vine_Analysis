@@ -61,7 +61,6 @@ Analyzing the above dataset on book reviews by vine and non-vine book reviewers,
 * An interesting aspect to look into the dataset is among vine and non-vine reviewers how many have purchased the book. This can be achieved by filtering verified_purchase ==Y.
 
 ![additional](images/additional.png)
-
 * The total number of paid vine reviewers who purchased their book is 29.
 * The total number of unpaid vine reviewers who purchased their book is 55106.
 * The unpaid vine reviewers bought their books more as compared to the paid vine reviewers.
