@@ -43,7 +43,7 @@ Initially, a vine dataframe was created including the columns that are necessary
 
 ### Percentage of Vine reviews and non-Vine reviews that are 5 stars.
 
-![percentage]()
+![percentage](images/percentage.png)
 
 * The percentage of vine reviewers with 5 star reviews is 33.82%
 * The percentage of non-vine reviewers with 5 star reviews is 51.13%
